@@ -23,15 +23,23 @@
 
 ---
 
-<!--
-  SCREENSHOT: tambahkan gambar ke folder assets/screenshots/ lalu hapus tanda komentar di bawah ini.
+## Tangkapan Layar
 
-<div align="center">
-  <img src="assets/screenshots/dashboard.png" width="46%" alt="Dashboard" />
-  <img src="assets/screenshots/overlay.png" width="46%" alt="Overlay" />
-</div>
--->
+| Dashboard | Overlay |
+| :---: | :---: |
+| ![Dashboard](assets/screenshots/Dashboard.PNG) | ![Overlay](assets/screenshots/Overlay.PNG) |
 
+| Macro Mouse | Macro Keyboard |
+| :---: | :---: |
+| ![Macro Mouse](assets/screenshots/Macro_Mouse.PNG) | ![Macro Keyboard](assets/screenshots/Macro_Keyboard.PNG) |
+
+| Tweak | Aplikasi Target |
+| :---: | :---: |
+| ![Tweak](assets/screenshots/Tweak.PNG) | ![Applications](assets/screenshots/Applications.PNG) |
+
+| Preview Overlay 1 | Preview Overlay 2 |
+| :---: | :---: |
+| ![Preview Overlay 1](assets/screenshots/Preview_Overlay1.PNG) | ![Preview Overlay 2](assets/screenshots/Preview_Overlay2.PNG) |
 ## Fitur
 
 | | |

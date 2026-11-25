@@ -19,8 +19,8 @@
   <a href="https://github.com/ihsanamiruddinn/S4N_MacroKey/releases">Riwayat rilis</a>
 </p>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/ihsanamiruddinn" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-00D6A0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Traktir Developer Kopi">
+  <a href="https://saweria.co/ihsanamiruddin" target="_blank">
+    <img src="https://img.shields.io/badge/SAWERIA-faae2b?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Traktir Developer via Saweria">
   </a>
 </p>
 

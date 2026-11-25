@@ -35,11 +35,12 @@
 
 | Tweak | Aplikasi Target |
 | :---: | :---: |
-| ![Tweak](assets/screenshots/Tweak.PNG) | ![Applications](assets/screenshots/Applications.PNG) |
+| ![Tweak](assets/screenshots/Tweak.PNG) | ![Applications](assets/screenshots/Aplications.PNG) |
 
 | Preview Overlay 1 | Preview Overlay 2 |
 | :---: | :---: |
 | ![Preview Overlay 1](assets/screenshots/Preview_Overlay1.PNG) | ![Preview Overlay 2](assets/screenshots/Preview_Overlay2.PNG) |
+
 ## Fitur
 
 | | |

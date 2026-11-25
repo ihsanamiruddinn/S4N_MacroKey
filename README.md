@@ -18,6 +18,11 @@
   Versi 1.0.0 &middot; Windows 10 / 11 (64-bit) &middot;
   <a href="https://github.com/ihsanamiruddinn/S4N_MacroKey/releases">Riwayat rilis</a>
 </p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ihsanamiruddinn" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-00D6A0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Traktir Developer Kopi">
+  </a>
+</p>
 
 </div>
 

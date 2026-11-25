@@ -8,11 +8,16 @@
 
 <br />
 
-[![Download untuk Windows](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20untuk%20Windows-00D6A0?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ihsanamiruddinn/S4N_MacroKey/releases/latest/download/S4N-Macro-win-x64.zip)
+<p align="center">
+  <a href="https://github.com/ihsanamiruddinn/S4N_MacroKey/releases/latest">
+    <img src="docs/download-button.svg" alt="Unduh S4N Macro untuk Windows" width="280">
+  </a>
+</p>
 
-[![Versi terbaru](https://img.shields.io/github/v/release/ihsanamiruddinn/S4N_MacroKey?style=flat-square&label=versi&color=00D6A0)](https://github.com/ihsanamiruddinn/S4N_MacroKey/releases/latest)
-[![Total unduhan](https://img.shields.io/github/downloads/ihsanamiruddinn/S4N_MacroKey/total?style=flat-square&label=unduhan&color=2d3b35)](https://github.com/ihsanamiruddinn/S4N_MacroKey/releases)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20(64--bit)-2d3b35?style=flat-square)
+<p align="center">
+  Versi 1.0.0 &middot; Windows 10 / 11 (64-bit) &middot;
+  <a href="https://github.com/ihsanamiruddinn/S4N_MacroKey/releases">Riwayat rilis</a>
+</p>
 
 </div>
 

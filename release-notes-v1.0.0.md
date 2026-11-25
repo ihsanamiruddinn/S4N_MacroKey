@@ -8,7 +8,6 @@ Rilis pertama.
 - Macro Mouse dan Macro Keyboard
 - Overlay stream untuk OBS
 - Tweak: SOCD Cleaner, Camera/Mouse Flick, Reduce Lag
-- Notifikasi toast dan dialog bertema
 
 ### Unduh
 **`S4N-Macro-win-x64.zip`** (Windows 10/11 64-bit, tidak perlu memasang .NET)

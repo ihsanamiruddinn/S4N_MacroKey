@@ -37,7 +37,6 @@
 | **Macro Keyboard** | Aturan *Input → Output* untuk memetakan ulang tombol. Hanya berlaku saat aplikasi target aktif. |
 | **Overlay Stream** | Tampilan keyboard, mouse, ping, dan teks ketikan di layar. Bisa *click-through*, dan bisa disembunyikan dari tampilan game tetapi tetap tertangkap OBS lewat *Window Capture*. |
 | **Tweak** | *SOCD Cleaner* (input arah terakhir yang menang), *Camera / Mouse Flick* dengan jarak X/Y dan arah bergantian, serta *Reduce Lag* (prioritas proses tinggi). |
-| **Notifikasi Toast** | Pop-up status hold dengan 8 pilihan posisi dan durasi yang bisa diatur. |
 | **Praktis** | Berjalan di system tray, opsi *Start with Windows*, dan tidak memerlukan hak Administrator. |
 
 ## Persyaratan
@@ -101,7 +100,7 @@ Aktifkan **Enable Overlay**, lalu pilih komponen yang ingin ditampilkan: keyboar
 
 ### Settings
 
-Atur **Start with Windows** serta notifikasi toast (aktif/nonaktif, posisi, dan durasi).
+Atur **Start with Windows** agar S4N Macro berjalan otomatis saat Windows menyala.
 
 ## Tanya Jawab
 

@@ -22,4 +22,4 @@ Cek di PowerShell: `Get-FileHash .\S4N-Macro-win-x64.zip -Algorithm SHA256`
 
 ### Catatan
 - Windows SmartScreen dapat menampilkan peringatan karena aplikasi belum bertanda tangan digital. Klik **More info → Run anyway**.
-- Lihat panduan lengkap di [README](https://github.com/ihsanamiruddinn/S4N-Macro#readme).
+- Lihat panduan lengkap di [README](https://github.com/ihsanamiruddinn/S4N_MacroKey#readme).

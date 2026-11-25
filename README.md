@@ -8,10 +8,10 @@
 
 <br />
 
-[![Download untuk Windows](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20untuk%20Windows-00D6A0?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ihsanamiruddinn/S4N-Macro/releases/latest/download/S4N-Macro-win-x64.zip)
+[![Download untuk Windows](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20untuk%20Windows-00D6A0?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ihsanamiruddinn/S4N_MacroKey/releases/latest/download/S4N-Macro-win-x64.zip)
 
-[![Versi terbaru](https://img.shields.io/github/v/release/ihsanamiruddinn/S4N-Macro?style=flat-square&label=versi&color=00D6A0)](https://github.com/ihsanamiruddinn/S4N-Macro/releases/latest)
-[![Total unduhan](https://img.shields.io/github/downloads/ihsanamiruddinn/S4N-Macro/total?style=flat-square&label=unduhan&color=2d3b35)](https://github.com/ihsanamiruddinn/S4N-Macro/releases)
+[![Versi terbaru](https://img.shields.io/github/v/release/ihsanamiruddinn/S4N_MacroKey?style=flat-square&label=versi&color=00D6A0)](https://github.com/ihsanamiruddinn/S4N_MacroKey/releases/latest)
+[![Total unduhan](https://img.shields.io/github/downloads/ihsanamiruddinn/S4N_MacroKey/total?style=flat-square&label=unduhan&color=2d3b35)](https://github.com/ihsanamiruddinn/S4N_MacroKey/releases)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20(64--bit)-2d3b35?style=flat-square)
 
 </div>
@@ -53,7 +53,7 @@
 
 > **Muncul peringatan "Windows protected your PC"?**
 > Aplikasi ini belum memiliki tanda tangan digital, jadi Windows SmartScreen menampilkan peringatan untuk aplikasi baru. Klik **More info → Run anyway**.
-> Untuk memastikan file tidak berubah, bandingkan hash-nya dengan yang tercantum di halaman [Releases](https://github.com/ihsanamiruddinn/S4N-Macro/releases):
+> Untuk memastikan file tidak berubah, bandingkan hash-nya dengan yang tercantum di halaman [Releases](https://github.com/ihsanamiruddinn/S4N_MacroKey/releases):
 > ```powershell
 > Get-FileHash .\S4N-Macro-win-x64.zip -Algorithm SHA256
 > ```
@@ -118,7 +118,7 @@ Secara lokal di `%LOCALAPPDATA%\SmartMouseHold\` (`config.json` dan `app.log`). 
 Matikan *Start with Windows* di Settings, pilih **Exit** dari ikon tray, lalu hapus folder aplikasi. Opsional: hapus folder pengaturan di atas.
 
 **Aplikasi macet atau ada yang tidak beres.**
-Buka [Issues](https://github.com/ihsanamiruddinn/S4N-Macro/issues) dan sertakan versi aplikasi, versi Windows, langkah untuk mengulang masalahnya, serta isi `app.log` bila ada.
+Buka [Issues](https://github.com/ihsanamiruddinn/S4N_MacroKey/issues) dan sertakan versi aplikasi, versi Windows, langkah untuk mengulang masalahnya, serta isi `app.log` bila ada.
 
 ## Privasi
 

@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/ihsanamiruddinn/S4N_MacroKey/releases/latest">
+  <a href="https://github.com/ihsanamiruddinn/S4N_MacroKey/releases/latest/download/S4N-Macro-win-x64.zip">
     <img src="docs/download-button.svg" alt="Unduh S4N Macro untuk Windows" width="280">
   </a>
 </p>
